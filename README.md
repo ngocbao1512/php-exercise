@@ -7,6 +7,7 @@ mini-project <br>
  **3 máy tính demo** <br>
  ![image](https://user-images.githubusercontent.com/63847215/126295509-3996cff0-9dd2-4d2d-a977-c9812c642fb5.png) <br>
  **4 display customer** <br>
- ![image](https://user-images.githubusercontent.com/63847215/126306043-133ab976-4d79-4a64-b4cb-f4f4265ba709.png)
-
+ ![image](https://user-images.githubusercontent.com/63847215/126306043-133ab976-4d79-4a64-b4cb-f4f4265ba709.png) <br>
+ **5 dictionary** <br>
+ ![image](https://user-images.githubusercontent.com/63847215/126331207-f3c8f274-d6c2-42bd-9da0-3bffae8cf421.png)
 
