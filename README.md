@@ -1,7 +1,7 @@
 # php-exercise
 mini-project <br>
  **1 giải pt bậc 2** <br>
- ![image](https://user-images.githubusercontent.com/63847215/126259799-86282699-28aa-4512-876d-05e1bd8163a2.png)
+ ![image](https://user-images.githubusercontent.com/63847215/126259799-86282699-28aa-4512-876d-05e1bd8163a2.png) <br>
  **2 in tam giác** <br>
  ![image](https://user-images.githubusercontent.com/63847215/126282254-2512808a-037e-415c-a406-2281a34457f9.png) <br>
  **3 máy tính demo** <br>
@@ -9,5 +9,7 @@ mini-project <br>
  **4 display customer** <br>
  ![image](https://user-images.githubusercontent.com/63847215/126306043-133ab976-4d79-4a64-b4cb-f4f4265ba709.png) <br>
  **5 dictionary** <br>
- ![image](https://user-images.githubusercontent.com/63847215/126331207-f3c8f274-d6c2-42bd-9da0-3bffae8cf421.png)
+ ![image](https://user-images.githubusercontent.com/63847215/126331207-f3c8f274-d6c2-42bd-9da0-3bffae8cf421.png) <br>
+ **6 cunghoangdao** <br>
+ ![image](https://user-images.githubusercontent.com/63847215/126348782-776c4550-8d3f-4bbf-81af-e3963a9526e1.png) <br>
 
