@@ -12,4 +12,6 @@ mini-project <br>
  ![image](https://user-images.githubusercontent.com/63847215/126331207-f3c8f274-d6c2-42bd-9da0-3bffae8cf421.png) <br>
  **6 cunghoangdao** <br>
  ![image](https://user-images.githubusercontent.com/63847215/126348782-776c4550-8d3f-4bbf-81af-e3963a9526e1.png) <br>
+ **7 chuyên gia đọc lệnh** <br>
+ ![image](https://user-images.githubusercontent.com/63847215/126432689-4d9fc915-7d51-4128-8bab-2ecf49dbff2b.png) <br>
 
