@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Padauk&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Padauk', sans-serif;
+}
+
+body {
+    background-image: url("https://www.nhakhoavietphap.com.vn/images/wwwnhakhoavietphapcomvn/2019/06/cot-room-trong-bang-gia-chung-khoan-la-gi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container {
+    height: 95vh;
+    width: 40vw;
+    background-image: url("https://cdnmedia.tinmoi.vn/resize_392x483/upload/thanhdat/2021/07/16/thoi-nen-cat-nen-tia-nen-goi-nen-la-gi-hang-loat-thuat-ngu-tai-chinh-40-cho-nguoi-toi-co-1626422055-5.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 4px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main {
+    min-height: 40vh;
+    width: 30vw;
+    background-color: rgba(240, 248, 255, 0.63);
+    display: flex;
+    padding: 60px;
+    flex-direction: column;
+}
+input {
+    margin-left: 30px;
+    margin-right: 150px;
+    font-size: 24px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(240, 248, 255, 0.829);
+    padding: 5px;
+}
+button {
+    width: 100px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
