@@ -14,4 +14,7 @@ mini-project <br>
  ![image](https://user-images.githubusercontent.com/63847215/126348782-776c4550-8d3f-4bbf-81af-e3963a9526e1.png) <br>
  **7 chuyên gia đọc lệnh** <br>
  ![image](https://user-images.githubusercontent.com/63847215/126432689-4d9fc915-7d51-4128-8bab-2ecf49dbff2b.png) <br>
+ **8 atm demo** <br>
+ ![image](https://user-images.githubusercontent.com/63847215/126470106-be1e4395-8b47-476a-ac2c-bc69b9ed5740.png) <br>
+
 
